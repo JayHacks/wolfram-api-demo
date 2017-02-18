@@ -1,6 +1,6 @@
-==========
+#==========
 # Node.js
-==========
+#==========
 
 # Logs
 logs
@@ -41,9 +41,9 @@ jspm_packages
 .node_repl_history
 
 
-=========
+#=========
 # Python
-=========
+#=========
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -136,9 +136,9 @@ ENV/
 .ropeproject
 
 
-=======
+#=======
 # Ruby
-=======
+#=======
 
 *.gem
 *.rbc
