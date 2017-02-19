@@ -22,4 +22,5 @@ To get started, follow these steps:
 2. `$ source venv/bin/activate`
 3. `$ pip install -r requirements.txt`
 4. `$ python app.js`
-5. When you're done, `Ctrl + C` and then `$ deactivate`
+5. Go to the URL listed in your command prompt. This is where the local server is running.
+6. When you're done, `Ctrl + C` and then `$ deactivate`
